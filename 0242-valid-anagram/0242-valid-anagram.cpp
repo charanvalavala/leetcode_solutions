@@ -1,16 +1,19 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        map<char,int>mp1,mp2;
-        for(int i =0,j=s.size();i<j;i++)
+        int array[26]={0};
+        for(int i=0,j=s.size();i<j;i++)
         {
-            mp1[s[i]]++;
+            array[s[i]-'a']++;
         }
-        for(int i =0,j=t.size();i<j;i++)
+        for(int i=0,j=t.size();i<j;i++)
         {
-            mp2[t[i]]++;
+            array[t[i]-'a']--;
         }
-        if(mp1==mp2)return true;
-        return false;
+        for(int i=0;i<26;i++)
+        {
+            if(array[i] != 0){return false;};
+        }
+        return true;
     }
 };
