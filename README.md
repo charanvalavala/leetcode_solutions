@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
