@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
+| [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
