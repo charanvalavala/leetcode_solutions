@@ -1,36 +1,21 @@
 class MyHashMap {
-private:
-    vector<pair<int, int>> v;
-
+    int arr[1000001];
 public:
-    MyHashMap() {}
+    MyHashMap() {
+        fill(arr, arr + 1000001, -1);
+    }
     
     void put(int key, int value) {
-        for (auto& it : v) {
-            if (it.first == key) {
-                it.second = value; 
-                return;            
-            }
-        }
-        v.push_back({key, value});
+        arr[key]= value;
     }
     
     int get(int key) {
-        for (auto& it : v) {
-            if (it.first == key) {
-                return it.second;
-            }
-        }
-        return -1; 
+        return arr[key];
     }
     
     void remove(int key) {
-        for (auto it = v.begin(); it != v.end(); ++it) {
-            if (it->first == key) {
-                v.erase(it); 
-                return;      
-            }
-        }
+        arr[key] = -1;
+        
     }
 };
 
