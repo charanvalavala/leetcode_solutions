@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -75,9 +77,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
