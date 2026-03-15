@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
+| [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0283-move-zeroes) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
