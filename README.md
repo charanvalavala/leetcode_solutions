@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/charanvalavala/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/charanvalavala/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/charanvalavala/leetcode_solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0283-move-zeroes) |
 ## Design
 |  |
