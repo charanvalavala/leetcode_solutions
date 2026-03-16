@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/charanvalavala/leetcode_solutions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/charanvalavala/leetcode_solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
