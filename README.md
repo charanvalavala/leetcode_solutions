@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/charanvalavala/leetcode_solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/charanvalavala/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
 |  |
 | ------- |
