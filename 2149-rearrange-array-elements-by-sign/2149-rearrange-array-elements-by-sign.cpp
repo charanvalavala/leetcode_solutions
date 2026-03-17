@@ -1,29 +1,29 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int>positives;
-        vector<int>negatives;
         vector<int>ans;
         int n = nums.size();
-        for(int i=0;i<n;i++)
+        int p =0;
+        int ne =0;
+        while(p<n && ne <n )
         {
-            if(nums[i]>0)
+            while(p<n && nums[p]<0)
             {
-                positives.emplace_back(nums[i]);
+                p++;
             }
-            else{
-                negatives.emplace_back(nums[i]);
+            if(p<n)
+            {
+                ans.emplace_back(nums[p]);
+                p++;
             }
-        }
-        int a = positives.size();
-        int i=0;
-        int j = 0;
-        while(i<a)
-        {
-            ans.emplace_back(positives[i]);
-            ans.emplace_back(negatives[j]);
-            i++;
-            j++;
+            while(ne<n && nums[ne]>0 )
+            {
+                ne++;
+            }
+            if(ne<n){
+                ans.emplace_back(nums[ne]);
+                ne++;
+            }
         }
         return ans;
     }
