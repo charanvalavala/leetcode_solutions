@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charanvalavala/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/charanvalavala/leetcode_solutions/tree/master/0231-power-of-two) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charanvalavala/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/charanvalavala/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/charanvalavala/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/charanvalavala/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
