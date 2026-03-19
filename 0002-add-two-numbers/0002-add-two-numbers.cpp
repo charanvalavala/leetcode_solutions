@@ -20,32 +20,20 @@ public:
             
             if (l1 != nullptr) {
                 sum += l1->val;
+                l1 = l1->next;
             }
             if (l2 != nullptr) {
                 sum += l2->val;
+                l2 = l2->next;
             }
 
             carry = sum / 10;
-
-            if (l1 != nullptr) {
-                l1->val = sum % 10;
-                curr->next = l1;
-                curr = l1;
-                l1 = l1->next;
-                if (l2 != nullptr) l2 = l2->next;
-            } else if (l2 != nullptr) {
-                l2->val = sum % 10;
-                curr->next = l2;
-                curr = l2;
-                l2 = l2->next;
-            } else {
-                curr->next = new ListNode(sum % 10);
-                curr = curr->next;
-            }
+            curr->next = new ListNode(sum % 10);
+            curr = curr->next;
         }
 
-        ListNode* res = dummy->next;
+        ListNode* ans = dummy->next;
         delete dummy;
-        return res;
+        return ans;
     }
 };
