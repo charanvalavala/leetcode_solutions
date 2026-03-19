@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
+| [0560-subarray-sum-equals-k](https://github.com/charanvalavala/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/charanvalavala/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/charanvalavala/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/charanvalavala/leetcode_solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/charanvalavala/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charanvalavala/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/charanvalavala/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
