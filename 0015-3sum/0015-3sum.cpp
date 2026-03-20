@@ -1,35 +1,60 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        vector<vector<int>>ans;
         int n = nums.size();
-        sort(nums.begin(),nums.end());
-        for(int i=0;i<n;i++)
+
+    vector<vector<int>> ans;
+
+    sort(nums.begin(), nums.end()); // to arrange duplicates and give array an order
+
+    for (int i = 0; i < n; i++)
+    {
+
+        if (i > 0 && nums[i] == nums[i - 1])
         {
-            if(i>0 && nums[i] == nums[i-1])continue;
-            int j = i+1;
-            int k = n-1;
-            while(j<k)
+            continue;
+        }
+
+        int l = i + 1;
+        int r = n - 1;
+
+        while (l < r)
+        {
+            int sum = nums[i] + nums[l] + nums[r];
+
+            if (sum == 0)
             {
-                int sum = nums[i]+nums[j]+nums[k];
-                if(sum<0)
-                {
-                    j++;
-                }
-                else if(sum >0)
-                {
-                    k--;
-                }
-                else
-                {
-                    ans.push_back({nums[i],nums[j],nums[k]});
-                    j++;
-                    k--;
-                    while(j<k && nums[j]==nums[j-1])j++;
-                    while(j<k && nums[k]==nums[k+1])k--;
-                }
+                ans.push_back({nums[i], nums[l], nums[r]});
+
+                 // to avoid duplicates
+
+         while(l<r && nums[l] == nums[l+1]){
+            l++;
+         }
+
+         while ( l < r && nums[r] == nums[r-1]){
+            r--;
+         }
+
+         l++;
+         r--;
+            }
+
+            else if (sum < 0)
+            {
+                l++;
+            }
+
+            else
+            {
+                r--;
             }
         }
-        return ans;
+
+        
+    }
+
+    return ans ;
     }
 };
+
