@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/charanvalavala/leetcode_solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/charanvalavala/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanvalavala/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanvalavala/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanvalavala/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charanvalavala/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanvalavala/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanvalavala/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
 |  |
