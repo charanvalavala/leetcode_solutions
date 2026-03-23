@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/charanvalavala/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/charanvalavala/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/charanvalavala/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/charanvalavala/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/charanvalavala/leetcode_solutions/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/charanvalavala/leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanvalavala/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanvalavala/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/charanvalavala/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanvalavala/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanvalavala/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
