@@ -2,20 +2,21 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        int lo = 0;
-        int hi = n-1;
-        int mid =-1;
-        while(hi>=lo)
+        return binary(nums,0,n-1,target);
+    }
+
+    int binary(vector<int>& nums,int low,int high, int target)
+    {
+        if (low>high)return -1;
+        int mid = (low+high)/2;
+        if(nums[mid]==target)return mid;
+        if(nums[mid] > target)
         {
-        mid = (hi+lo)/2;
-         if(target == nums[mid]){return mid;}
-         if(target >nums[mid])
-         {
-            lo = mid+1;
-         }
-         else{hi = mid-1;}
-        } 
-        
-        return -1;
+            return binary(nums,low,mid-1,target);
+        }
+        else
+        {
+            return binary(nums,mid+1,high,target);
+        }
     }
 };
