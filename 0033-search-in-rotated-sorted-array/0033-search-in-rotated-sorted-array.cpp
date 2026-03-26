@@ -1,21 +1,27 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int n = nums.size();
-        return binsearch(nums,0,n-1,target);
-    }
-
-    int binsearch(vector<int>& nums, int low, int high,int target)
-    {
-        if(low>high)return -1;
-        int mid = (low+high)/2;
-        if(nums[mid]==target)return mid;
-        int max1=-1;
-        int max2=-1;
-        max1=binsearch(nums,low,mid-1,target);
-        max2=binsearch(nums,mid+1,high,target);
-        return max(max1,max2);
-        
-        
+    int search(vector<int>& arr, int target) {
+        int n = arr.size();
+        int low = 0;
+        int high = n - 1;
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            if (arr[mid] == target)
+                return mid;
+            if (arr[low] <= arr[mid]) {
+                if (arr[low] <= target and arr[mid] >= target) {
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
+                }
+            } else {
+                if (arr[mid] <= target and arr[high] >= target) {
+                    low = mid + 1;
+                } else {
+                    high = mid - 1;
+                }
+            }
+        }
+        return -1;
     }
 };
