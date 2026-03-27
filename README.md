@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/charanvalavala/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/charanvalavala/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/charanvalavala/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanvalavala/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/charanvalavala/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/charanvalavala/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanvalavala/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/charanvalavala/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/charanvalavala/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Linked List
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/charanvalavala/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/charanvalavala/leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/charanvalavala/leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/charanvalavala/leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/charanvalavala/leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
