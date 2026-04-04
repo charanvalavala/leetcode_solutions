@@ -1,25 +1,18 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int n = s.size();
-        if(n != t.size())return false;
-        unordered_map<char,int>fors;
-        unordered_map<char,int>fort;
-        for(int i=0;i<n;i++)
-        {
-            if(fors.find(s[i]) == fors.end())
-            {
-                fors[s[i]]=i;
+        unordered_map<char , char> mpp;
+        unordered_map<char , int> freq;
+        for( int i = 0; i<s.size(); i++){
+            if(mpp.find(s[i]) == mpp.end()){
+                if(freq[t[i]] == 1) return false;
+                freq[t[i]]++;
+                mpp[s[i]] = t[i];
             }
-
-            if(fort.find(t[i]) == fort.end())
-            {
-                fort[t[i]]=i;
+            else{
+                if(mpp[s[i]] != t[i]) return false;
             }
-            if(fors[s[i]] != fort[t[i]])return false;
         }
         return true;
-
-
     }
 };
