@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/charanvalavala/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/charanvalavala/leetcode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/charanvalavala/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/charanvalavala/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
