@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/charanvalavala/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/charanvalavala/leetcode_solutions/tree/master/0706-design-hashmap) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/charanvalavala/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/charanvalavala/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/charanvalavala/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/charanvalavala/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/charanvalavala/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Math
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/charanvalavala/leetcode_solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/charanvalavala/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1603-design-parking-system](https://github.com/charanvalavala/leetcode_solutions/tree/master/1603-design-parking-system) |
 ## Binary Search
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/charanvalavala/leetcode_solutions/tree/master/0355-design-twitter) |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -274,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/charanvalavala/leetcode_solutions/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/charanvalavala/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
