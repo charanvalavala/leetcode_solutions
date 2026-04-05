@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charanvalavala/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/charanvalavala/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/charanvalavala/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/charanvalavala/leetcode_solutions/tree/master/0146-lru-cache) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/charanvalavala/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/charanvalavala/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/charanvalavala/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/charanvalavala/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/charanvalavala/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/charanvalavala/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/charanvalavala/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/charanvalavala/leetcode_solutions/tree/master/0231-power-of-two) |
