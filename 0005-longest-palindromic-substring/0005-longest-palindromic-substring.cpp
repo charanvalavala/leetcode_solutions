@@ -1,31 +1,43 @@
 class Solution {
 public:
     string longestPalindrome(string s) {
-        int n = s.size();
-        int fl = 0, fr = 0;
+        // manachers algo i dont know this btw just checking for fun
+        string t = "#";
+        for (char c : s) {
+            t += c;
+            t += '#';
+        }
+        int n = t.size();
+        vector<int> p(n, 0);
+
+        int center = 0;
+        int right = 0;
 
         for (int i = 0; i < n; i++) {
-            int l = i, r = i;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l > fr - fl) {
-                    fl = l;
-                    fr = r;
-                }
-                l--;
-                r++;
-            }
+            int mirror = 2 * center - i;
 
-            l = i;
-            r = i + 1;
-            while (l >= 0 && r < n && s[l] == s[r]) {
-                if (r - l > fr - fl) {
-                    fl = l;
-                    fr = r;
-                }
-                l--;
-                r++;
+            if (i < right)
+                p[i] = min(right - i, p[mirror]);
+
+            while (i + p[i] + 1 < n && i - p[i] - 1 >= 0 &&
+                   t[i + p[i] + 1] == t[i - p[i] - 1])
+                p[i]++;
+
+            if (i + p[i] > right) {
+                center = i;
+                right = i + p[i];
             }
         }
-        return s.substr(fl, fr - fl + 1);
+
+        int maxLen = 0, centerIdx = 0;
+        for (int i = 0; i < n; i++) {
+            if (p[i] > maxLen) {
+                maxLen = p[i];
+                centerIdx = i;
+            }
+        }
+
+        int start = (centerIdx - maxLen) / 2;
+        return s.substr(start, maxLen);
     }
 };
