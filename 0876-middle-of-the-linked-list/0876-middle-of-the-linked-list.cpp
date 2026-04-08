@@ -16,19 +16,11 @@ public:
         if (head->next == nullptr)
             return head;
         ListNode* curr = head;
-        ListNode* ans = nullptr;
-        int count = 0;
-        while (curr != nullptr) {
-            curr = curr->next;
-            count++;
+        ListNode* ans = head;
+        while (curr != nullptr && curr->next != nullptr) {
+            curr = curr->next->next;
+            ans= ans->next;
         }
-        curr = head;
-        int req =(count / 2);;
-        count = 0;
-        while (count < req) {
-            curr = curr->next;
-            count++;
-        }
-        return curr;
+        return ans;
     }
 };
