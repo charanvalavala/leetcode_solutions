@@ -1,28 +1,34 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stack<char> st;
-        string ans = "";
+        reverse(s.begin(), s.end());
         int n = s.size();
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] != ' ') {
-                st.push(s[i]);
-            } else {
-                if (!st.empty()) {
-                    while (!st.empty()) {
-                        ans.push_back(st.top());
-                        st.pop();
-                    }
-                    ans.push_back(' ');
-                }
+        int left = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (s[i] == ' ') {
+                reverse(s.begin() + left, s.begin() + i);
+                left = i + 1;
             }
         }
-        while (!st.empty()) {
-            ans.push_back(st.top());
-            st.pop();
+        reverse(s.begin() + left, s.end());
+
+        left = 0;
+        int spacethere = 0;
+        for (int i = 0; i < n; i++) {
+            if (s[i] != ' ') {
+                if (spacethere && left > 0) {
+                    s[left] = ' ';
+                    left++;
+                }
+                spacethere = 0;
+                s[left] = s[i];
+                left++;
+            } else {
+                spacethere = 1;
+            }
         }
-        if (!ans.empty() && ans.back() == ' ')
-            ans.pop_back();
-        return ans;
+
+        return s.substr(0, left);
     }
 };
